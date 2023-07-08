@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\bin\Debug\netcoreapp3.1\AsalSayi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\AsalSayi\AsalSayi\obj\Debug\netcoreapp3.1\AsalSayi.genruntimeconfig.cache
